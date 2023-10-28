@@ -120,10 +120,10 @@ body {
 
     .card {
         width:100%;
-        max-width: 400px;
+        max-width: 380px;
         background: linear-gradient(135deg, #00feba, #5b548a);
         color: #fff;
-        margin: 40px auto 0;
+        margin: 20px auto 0;
         justify-content: center;
         justify-items: center;
         border-radius: 15px;
@@ -140,7 +140,7 @@ body {
         height: 50px;
         border-radius: 10px;
         flex: 1;
-        margin-right: 8px;
+        margin-right:8px;
         font-size: 20px;
     }
 
